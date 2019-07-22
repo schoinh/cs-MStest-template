@@ -1,13 +1,10 @@
 using System;
-using ProjectName.Models;
+using NAMESPACE;
 
-namespace ProjectName
+class Program
 {
-    private class ClassName
+    private static void Main()
     {
-        private static void Main()
-        {
 
-        }
     }
 }
